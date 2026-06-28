@@ -12,3 +12,11 @@
 ----------------------
 1. Клонируйте репозиторий и перейдите в папку проекта.
 2. В папке проекта запустите файл start.bat(в зависимости от вашего браузера), проект откроется в режиме инкогнито.
+
+Деплой
+------
+- https://qq4nd73w.github.io
+
+Code Climate
+------------
+- [![Maintainability](https://qlty.sh/gh/QQ4nd73w/projects/QQ4nd73w.github.io/maintainability.svg)](https://qlty.sh/gh/QQ4nd73w/projects/QQ4nd73w.github.io)
